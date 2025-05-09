@@ -53,7 +53,7 @@
           "description": "A rule-based proxy utility client for iOS.",
           "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
           "configLink": "https://example.com/shadowrocket-config",
-          "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118"
+          "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118",
           "tutorialSteps": [
             {
               "stepText": "Step 1: Download and install the Streisand app from the App Store.",
