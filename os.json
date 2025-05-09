@@ -54,6 +54,8 @@
           "faDescription": "Shadowrocket یک ابزار پروکسی قانون‌محور برای iOS است.",
           "configLink": "https://example.com/shadowrocket-config",
           "downloadLink": "https://apps.apple.com/us/app/shadowrocket/id932747118"
+          "tutorialSteps": [
+          ]
         },
         {
           "name": "V2box",
