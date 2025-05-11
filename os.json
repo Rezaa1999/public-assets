@@ -161,13 +161,13 @@
               "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/1.jpg"
             },
             {
-              "stepText": "Step 2: Select "Configurations" from the application menu and then select "Import Share Links from clipboard" from the submenu (or you can press Ctrl+V).",
-              "faStepText": "مرحله ۲: از منوی برنامه "Configurations" رو انتخاب کنید و سپس از زیر منوی این گزینه "Import Share Links from clipboard" رو انتخاب کنید(یا میتونید Ctrl+V رو بزنید).",
+              "stepText": "Step 2: Select Configurations from the application menu and then select Import Share Links from clipboard from the submenu (or you can press Ctrl+V).",
+              "faStepText": "مرحله ۲: از منوی برنامه Configurations رو انتخاب کنید و سپس از زیر منوی این گزینه Import Share Links from clipboard رو انتخاب کنید(یا میتونید Ctrl+V رو بزنید).",
               "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/2.jpg"
             },
             {
-              "stepText": "Step 3: Then select the "Subscription Group" application menu and then select "Update subscriptions without proxy" from the submenu.",
-              "faStepText": "مرحله ۳: سپس منوی برنامه "Subscription Group" رو انتخاب کنید و سپس از زیر منوی این گزینه "Update subscriptions without proxy" رو انتخاب کنید.",
+              "stepText": "Step 3: Then select the Subscription Group application menu and then select "pdate subscriptions without proxy from the submenu.",
+              "faStepText": "مرحله ۳: سپس منوی برنامه "Subscription Group" رو انتخاب کنید و سپس از زیر منوی این گزینه "pdate subscriptions without proxy رو انتخاب کنید.",
               "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/3.jpg"
             },
             {
@@ -176,8 +176,8 @@
               "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/streisand/4.jpg"
             },
             {
-              "stepText": "Finally, inside the program, click on the 1st area shown in the image and click "Set system proxy".",
-              "faStepText": "مرحله ۵: در انتها، داخل برنامه در قسمت 1 مشخص در تصویر کلیک کنید و "Set system proxy" رو بزنید.",
+              "stepText": "Finally, inside the program, click on the 1st area shown in the image and click Set system proxy.",
+              "faStepText": "مرحله ۵: در انتها، داخل برنامه در قسمت 1 مشخص در تصویر کلیک کنید و Set system proxy رو بزنید.",
               "stepImage": "https://raw.githubusercontent.com/Rezaa1999/public-assets/refs/heads/main/stre5.jpg"
             }
           ]
